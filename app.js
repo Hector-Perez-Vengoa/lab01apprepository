@@ -49,12 +49,13 @@ const html = `
         left: 50%;
         margin-right: -50%;
         transform: translate(-50%, -50%);
+        color: blue;
       }
     </style>
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hola desde Render
     </section>
   </body>
 </html>
